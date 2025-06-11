@@ -53,10 +53,3 @@ Used a restaurant dataset containing information like:
 - **PyCharm IDE**
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/restaurant-analysis.git
-cd restaurant-analysis
